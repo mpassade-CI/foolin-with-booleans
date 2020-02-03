@@ -30,10 +30,10 @@ Let's make some `booleans`! **With `const`, if you please**...
 Now let's make some functions!
 
 * Create a function named `returnFalse` that takes one parameter and _always_ returns `false` _no matter what the parameter is_!
-* Create a function named `theOpposite` that takes one parameter that is a boolean and returns the opposite of it!
+* Create a function named `isOpposite` that takes one parameter that is a boolean and returns the opposite of it!
 * Create a function named `both` that takes two parameters that are `booleans` and returns `true` if they're both `true`, and `false` otherwise.
 * Create a function named `either` that takes in two parameters that are `booleans` and returns `true` if either is `true`, and `false` otherwise.
 * Create a function named `firstOnly` that takes in two parameters and returns `true` only if the first parameter is `true` and the second parameter is `false`, otherwise returning `false`.
 * Create a function named `secondOnly` that takes in two parameters and returns `true` only if the second parameter is `true` and the first parameter is `false`, otherwise returning `false`.
-* Create a function named `neither` that takes in two parameters that are `booleans` and returns `false` if they're both `false`, and otherwise returns `true`.
+* Create a function named `neither` that takes in two parameters that are `booleans` and returns `true` if they're both `false`, and otherwise returns `false`.
 * Create a function named `itsComplicated` that returns `true` if the first parameter is `false` **OR** if both the second and third are `true`. Otherwise it returns `false`.
